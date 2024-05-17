@@ -16,6 +16,7 @@ Word Quest is an engaging and challenging word-guessing game inspired by the pop
 - [Installation](#installation)
 - [Usage](#usage)
 - [Design Heuristics and Guidelines](#design-heuristics-and-guidelines)
+- [References](#references)
 
 ## Features
 
@@ -57,3 +58,6 @@ Word Quest is an engaging and challenging word-guessing game inspired by the pop
 - **Feedback**: Clear feedback is provided for user actions, such as colored feedback for each letter in guesses and alerts for game outcomes.
 - **User Control**: Users can control their experience, with options to play again, give up, or return to the main menu at any point.
 
+## References
+
+- Made use of class lecture notes and assignments done in class.
