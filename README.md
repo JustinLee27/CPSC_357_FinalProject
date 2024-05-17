@@ -1,11 +1,11 @@
 # CPSC_357_FinalProject
 
-Personal Info
-a. Justin Lee
-b. 2371816
-c. justlee@chapman.edu
-d. CPSC-357
-e. Final Project
+**Personal Info**
+- Justin Lee
+- 2371816
+- justlee@chapman.edu
+- CPSC-357
+- Final Project
 
 # Word Quest
 
