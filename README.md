@@ -38,14 +38,12 @@ I would recommend iOS 17.4 as that is what my Xcode runs on.
 
 ## Usage
 
-**Main Menu**: Navigate through options such as Start Game, How to Play, Settings, and Statistics.
-**Select Game Mode**: Choose between Classic Mode or Timed Mode.
-**Play the Game**: Enter your guesses and receive immediate feedback.
-**Victory Screen**: View your performance and choose to play again or return to the main menu.
-**Track Progress**: Check your statistics in the Statistics section.
-**Reset Statistics**: Use the Settings section to reset your statistics if desired.
-
-## Design Heuristics and Guidelines
+- **Main Menu**: Navigate through options such as Start Game, How to Play, Settings, and Statistics.
+- **Select Game Mode**: Choose between Classic Mode or Timed Mode.
+- **Play the Game**: Enter your guesses and receive immediate feedback.
+- **Victory Screen**: View your performance and choose to play again or return to the main menu.
+- **Track Progress**: Check your statistics in the Statistics section.
+- **Reset Statistics**: Use the Settings section to reset your statistics if desired.
 
 ## Design Heuristics and Guidelines
 
