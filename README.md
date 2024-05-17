@@ -32,9 +32,9 @@ Word Quest is an engaging and challenging word-guessing game inspired by the pop
 
 ## Installation
 
-To run the program, make sure your Xcode is fully up to date as it won't work otherwise. 
-Also, try to use the iPhone 15. Any model should be fine
-I would recommend iOS 17.4 as that is what my Xcode runs on.
+- To run the program, make sure your Xcode is fully up to date as it won't work otherwise. 
+- Also, try to use the iPhone 15. Any model should be fine.
+- I would recommend iOS 17.4 as that is what my Xcode runs on.
 
 ## Usage
 
